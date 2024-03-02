@@ -30,6 +30,7 @@ Welcome to the Digital Stamping App using Blockchain! This application offers a 
 
 The Digital Stamping App is built using the following tools and technologies:
 
+- **Sublime:** Text editor used for the project.
 - **Python:** Programming language used for backend development.
 - **JSON:** Data interchange format used for storing blockchain data.
 - **Flask:** Web framework used for developing the application.
