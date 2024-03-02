@@ -10,7 +10,6 @@ Welcome to the Digital Stamping App using Blockchain! This application offers a 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -58,7 +57,3 @@ To install the Digital Stamping App, follow these steps:
 ## Contributing
 
 Contributions to the Digital Stamping App are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
